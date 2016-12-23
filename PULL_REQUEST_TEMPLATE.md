@@ -1,4 +1,4 @@
-CCBU.ChangeManagement.Type (A, B, C, or D): 
+* Type (A, B, C, or D): 
 
-CCBU.ChangeManagement.Risk (None, Low, Medium, High): 
+* Risk (None, Low, Medium, High): 
 
