@@ -1,21 +1,27 @@
-* Summary: 
-* Description: 
-* Design Wiki URL:
-* Change Risk Assessment: 
-  None
-  Low
-  Medium
-  High
-* CCBU Affected Components: 
-  PF_Alerting
-  PF_Cassandra
-  PF_BaseImage
-* CCBU Change Type: 
-  A (Risk Covered By Pipeline)
-  B (Risk To Cloud Solution)
-  C (Risk To Hybrid Solution)
-  D (Risk To Data Center)
-* Release Tag: Filled in Later
-* Pull Request Links: 
-* Dev Tenant Deploy:
-* Appstaging/Integration Deployment Time:
+## Issue Type ##
+Planned Change
+## Summary ##
+Summary value
+## Description ##
+<!-- Briefly describe -->
+
+Notes:
+- How will this be tested?
+<!-- To be filled in -->
+
+- If deploy fails - how feature will be rolled back?
+<!-- To be filled in -->
+
+## CCBU Codebase ##
+- [ ] Platform
+- [ ] Context
+## Change Type ##
+- [ ] A (Risk Covered by Pipeline)
+- [ ] B (Risk to Cloud Solution)
+- [ ] C (Risk to Hybrid Solution)
+- [ ] D (Risk to Data Center)
+## Design Wiki Url ## 
+<!-- Fill in the design page Url -->
+## CCBU Affected Component(s) ##
+- [ ] PF Base Image
+- [ ] PF Alerting
