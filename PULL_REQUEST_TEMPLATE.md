@@ -9,10 +9,10 @@
 <!-- Briefly describe -->
 
 Notes:
-- How will this be tested?
+# How will this be tested?#
 <!-- To be filled in -->
 
-- If deploy fails - how feature will be rolled back?
+# If deploy fails - how feature will be rolled back?#
 <!-- To be filled in -->
 
 ## CCBU Codebase ##
