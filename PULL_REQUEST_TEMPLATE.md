@@ -2,7 +2,7 @@
 - [x] Planned Change
 - [ ] Emergency Change
 
-<!-- Hiding this to make sure template only have relevant info for users
+<!-- Hiding this to make sure template only has relevant info for users
 ## CCBU Codebase ##
 - [x] Platform
 -->
