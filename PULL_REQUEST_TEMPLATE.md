@@ -2,22 +2,18 @@
 - [x] Planned Change
 - [ ] Emergency Change
 
-<!-- Hiding this to make sure template only has relevant info for users
 ## CCBU Codebase ##
 - [x] Platform
--->
 
 ## Summary ##
-<!-- Summarize the Pull Request -->
 
 ## Description ##
-<!-- Briefly describe -->
 
 - How will this be tested? 
-<!-- To be filled in -->
+TBD
 
 - If deploy fails - how feature will be rolled back?
-<!-- To be filled in -->
+TBD
 
 ## Change Type ##
 - [ ] A (Risk Covered by Pipeline)
@@ -26,7 +22,6 @@
 - [ ] D (Risk to Data Center)
 
 ## Design Wiki Url ##
-<!-- Fill in the design page Url -->
 
 ## CCBU Affected Component(s) ##
 - [ ] PF Base Image - Changes here affect all Platform Components
