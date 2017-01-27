@@ -1,5 +1,5 @@
 ## Issue Type ##
-- [ ] Planned Change
+- [x] Planned Change
 - [ ] Emergency Change
 
 ## Summary ##
