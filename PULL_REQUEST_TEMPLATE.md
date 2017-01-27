@@ -29,5 +29,5 @@
 <!-- Fill in the design page Url -->
 
 ## CCBU Affected Component(s) ##
-- [ ] PF Base Image
+- [ ] PF Base Image - Changes here affect all Platform Components
 - [ ] PF Alerting
