@@ -2,6 +2,9 @@
 - [x] Planned Change
 - [ ] Emergency Change
 
+## CCBU Codebase ##
+- [x] Platform
+
 ## Summary ##
 <!-- Summarize the Pull Request -->
 
@@ -13,9 +16,6 @@
 
 - If deploy fails - how feature will be rolled back?
 <!-- To be filled in -->
-
-## CCBU Codebase ##
-- [x] Platform
 
 ## Change Type ##
 - [ ] A (Risk Covered by Pipeline)
