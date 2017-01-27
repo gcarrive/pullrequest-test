@@ -15,8 +15,7 @@
 <!-- To be filled in -->
 
 ## CCBU Codebase ##
-- [ ] Platform
-- [ ] Context
+- [x] Platform
 
 ## Change Type ##
 - [ ] A (Risk Covered by Pipeline)
