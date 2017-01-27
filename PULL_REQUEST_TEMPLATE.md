@@ -2,8 +2,10 @@
 - [x] Planned Change
 - [ ] Emergency Change
 
+<!-- Hiding this to make sure template only have relevant info for users
 ## CCBU Codebase ##
 - [x] Platform
+-->
 
 ## Summary ##
 <!-- Summarize the Pull Request -->
