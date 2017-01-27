@@ -25,7 +25,7 @@
 - [ ] C (Risk to Hybrid Solution)
 - [ ] D (Risk to Data Center)
 
-## Design Wiki Url ## 
+## Design Wiki Url ##
 <!-- Fill in the design page Url -->
 
 ## CCBU Affected Component(s) ##
