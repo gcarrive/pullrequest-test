@@ -17,9 +17,9 @@ TBD
 
 - How did you determine deployment type?
  
-  - Is this a manual deploy that is not covered by the deployment pipeline? 
+  # Is this a manual deploy that is not covered by the deployment pipeline? 
     - If so, why not?
-  - Does this deploy impact production (cause an outage)?
+  # Does this deploy impact production (cause an outage)?
     - If so, to what component(s)
     - For how long?
       - are short outages covered by retry logic of customer facing applications?
