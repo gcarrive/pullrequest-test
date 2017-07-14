@@ -15,10 +15,10 @@ TBD
 - If deploy fails - how feature will be rolled back?
 TBD
 
-1. test
+- test
   * test sub
     1. test sub sub
-    
+       - test sub 3
 
 ## Change Type ##
 - [ ] A (Risk Covered by Pipeline)
